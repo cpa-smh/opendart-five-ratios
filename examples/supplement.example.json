@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "corp_code": "00000001", "year": 2025, "fs_div": "CFS",
+      "currency": "KRW", "unit": "KRW", "origin": "manual",
+      "scope": "total_trade", "reported_basis": "not_available",
+      "balance_date": "2025-12-31", "rcept_no": "20260301000001",
+      "gross": null, "allowance": null, "net": null, "current_net": null,
+      "ecl_expense": null, "writeoffs": null, "recoveries": null, "other_movements": null,
+      "interest_expense": null, "interest_scope": "profit_loss",
+      "source_url": "https://example.com/replace-with-dart-filing",
+      "source_ref": "가상 형식 예제. 실제 공시의 주석 번호·표·페이지·원래 단위와 전체 매출채권 범위 확인 근거로 교체"
+    }
+  ]
+}
